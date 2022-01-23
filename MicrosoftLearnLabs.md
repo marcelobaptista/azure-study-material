@@ -28,6 +28,10 @@ AZ-500
 
 https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/
 
+AZ-700
+
+https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/
+
 AZ-800
 
 https://microsoftlearning.github.io/AZ-800-Administering-Windows-Server-Hybrid-Core-Infrastructure/
