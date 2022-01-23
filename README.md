@@ -1,9 +1,5 @@
 ---------------------------------------------------------------------------------------------
 
-#### LINKS PARA AS COLEÇÕES DE ESTUDOS PARA AS CERTIFICAÇÕES (ROTEIROS + EXTRAS):
+## [📚 Coleções de estudos (Microsoft Learn)](https://github.com/marcelobaptista/azure-study-material/blob/main/MicrosoftLearnCollection.md)
 
-https://github.com/marcelobaptista/azure-study-material/blob/main/MicrosoftLearnCollection.md
-
-#### LINKS PARA OS LABS OFICIAIS:
-
-https://github.com/marcelobaptista/azure-study-material/blob/main/MicrosoftLearnLabs.md
+## [📚 Labs Oficiais (Github Microsoft)](https://github.com/marcelobaptista/azure-study-material/blob/main/MicrosoftLearnLabs.md)
